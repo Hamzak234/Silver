@@ -1,2 +1,2 @@
 # Silver
-C# Otobüs bilet rezarvasyon Projesi
+C# yolcu bilet rezarvasyon Projesi
